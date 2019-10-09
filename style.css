@@ -10,9 +10,9 @@ body {
   min-height: 100hv;
   width: 100%;
  text-align: center;
-  background: white;
+  background: wheat;
   font-family: 'Dr Sugiyama', cursive;
-  font-size: 120px;
+  font-size: 80px;
 }
 
 .clock {
